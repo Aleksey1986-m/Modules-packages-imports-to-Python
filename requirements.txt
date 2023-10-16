@@ -1,0 +1,1 @@
+no-string-hints 0.2.0
