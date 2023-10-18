@@ -1,5 +1,7 @@
-from salary import calculate_salary
-from people import get_employees
+# Домашнее задание к лекции 1. «Import. Module. Package» Разработать структуру программы «Бухгалтерия»
+
+from package_selary.salary import calculate_salary
+from packege_people.people import get_employees
 from datetime import date
 
 today = date.today()
